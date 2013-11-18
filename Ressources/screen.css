@@ -743,8 +743,8 @@ input[type="submit"]:hover {
 }
 @font-face {
 	font-family: 'IcoMoon';
-	src: url("/fonts/icons/icomoon.eot");
-	src: url("/fonts/icons/icomoon.eot?#iefix") format("embedded-opentype"), url("/fonts/icons/icomoon.woff") format("woff"), url("/fonts/icons/icomoon.ttf") format("truetype"), url("/fonts/icons/icomoon.svg#IcoMoon") format("svg");
+	src: url("../fonts/icons/icomoon.eot");
+	src: url("../fonts/icons/icomoon.eot?#iefix") format("embedded-opentype"), url("../fonts/icons/icomoon.woff") format("woff"), url("../fonts/icons/icomoon.ttf") format("truetype"), url("../fonts/icons/icomoon.svg#IcoMoon") format("svg");
 	font-weight: 400;
 	font-style: normal
 }
@@ -1175,7 +1175,7 @@ input[type="submit"]:hover {
 	color: #333333
 }
 #esri-logo-footer {
-	background: transparent url(/img/esri-footer-social.jpg) no-repeat bottom right;
+	background: transparent url("../Images/esri-footer-social.jpg") no-repeat bottom right;
 	width: 120px;
 	height: 120px;
 	text-indent: -9999px;
