@@ -475,7 +475,7 @@ em.lable-it {
 	font-size: 1.5em;
 	line-height: 1.25em;
 	color: #393b3a;
-	text-transform: lowercase
+	text-transform: none
 }
 .repo-header h2 a {
 	color: #393b3a
